@@ -1,0 +1,16 @@
+C:\Users\lambe\Desktop\Ezgi CANDIR\PortalGrupChallenge\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\lambe\Desktop\Ezgi CANDIR\PortalGrupChallenge\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lambe\Desktop\Ezgi CANDIR\PortalGrupChallenge\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\lambe\Desktop\Ezgi CANDIR\PortalGrupChallenge\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lambe\Desktop\Ezgi CANDIR\PortalGrupChallenge\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lambe\Desktop\Ezgi CANDIR\PortalGrupChallenge\DataAccessLayer\bin\Debug\Entities.dll
+C:\Users\lambe\Desktop\Ezgi CANDIR\PortalGrupChallenge\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\lambe\Desktop\Ezgi CANDIR\PortalGrupChallenge\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lambe\Desktop\Ezgi CANDIR\PortalGrupChallenge\DataAccessLayer\bin\Debug\FakeData.dll
+C:\Users\lambe\Desktop\Ezgi CANDIR\PortalGrupChallenge\DataAccessLayer\bin\Debug\Entities.pdb
+C:\Users\lambe\Desktop\Ezgi CANDIR\PortalGrupChallenge\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\lambe\Desktop\Ezgi CANDIR\PortalGrupChallenge\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lambe\Desktop\Ezgi CANDIR\PortalGrupChallenge\DataAccessLayer\bin\Debug\FakeData.pdb
+C:\Users\lambe\Desktop\Ezgi CANDIR\PortalGrupChallenge\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\lambe\Desktop\Ezgi CANDIR\PortalGrupChallenge\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\lambe\Desktop\Ezgi CANDIR\PortalGrupChallenge\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

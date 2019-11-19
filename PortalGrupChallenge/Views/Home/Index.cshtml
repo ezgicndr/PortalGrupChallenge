@@ -1,0 +1,51 @@
+﻿@using Entities
+
+<!DOCTYPE html>
+<html>
+<head>
+
+
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+    <link href="~/Content/shop-homepage.css" rel="stylesheet" />
+
+    <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+
+
+</head>
+<body>
+    @{ 
+        User user = null;
+        if(Session["login"] != null)
+        {
+            user = Session["login"] as User;
+        }
+    }
+   
+  
+    <div class="col-md-8" style="width:100%">
+        @{
+            if (user == null)
+            {
+                <h2 class="text-center">
+                    Lütfen Üye Olun Ya Da Giriş Yapınız.
+                </h2>
+            }
+            else
+            {
+                <h2 class="text-center">
+                    Hoşgeldiniz
+                </h2>
+            }
+        }
+
+        <hr />
+        <div style="text-align: -webkit-center;">
+            <img src="https://www.portalgrup.com/~/media/images/site/logo.png" class="center-block img-responsive img-rounded img-thumbnail" alt="Altennate Text" />
+        </div>
+        <hr />  <p></p>
+    </div>
+
+</body>
+</html>
